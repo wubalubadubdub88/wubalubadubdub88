@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on gigidi
 - 📫 How to reach me by gigidi
 - 😄 Pronouns: gigidi gigidi
-- ⚡ Fun fact: im quagmire 
+- ⚡ Fun fact: im gigidi
+- 
 
 <!---
 wubalubadubdub88/wubalubadubdub88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
